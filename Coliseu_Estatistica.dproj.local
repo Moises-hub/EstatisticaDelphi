@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/05/04 15:20:52.000.452,=D:\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/04 15:22:04.000.202,E:\Delphi_Projetos\ColiseuEstatisticas\services\UColiseuEstatistica.dfm=D:\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/05/04 15:22:04.000.202,E:\Delphi_Projetos\ColiseuEstatisticas\services\UColiseuEstatistica.pas=D:\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/04 15:22:18.000.238,E:\Delphi_Projetos\ColiseuEstatisticas\services\Coliseu_Estatistica.dproj=D:\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/05/04 15:23:00.000.478,=E:\Delphi_Projetos\ColiseuEstatisticas\vcl\controller\Controller.Cliente.pas</Transaction>
+    <Transaction>2022/08/19 13:19:13.000.037,=E:\Delphi_Projetos\ColiseuEstatisticas\vcl\model\Model.LancaAtendimento.pas</Transaction>
+    <Transaction>2022/08/26 14:42:20.000.335,=E:\Delphi_Projetos\ColiseuEstatisticas\vcl\model\Model.LancaOcorrencia.pas</Transaction>
+    <Transaction>2022/08/26 14:53:20.000.389,=E:\Delphi_Projetos\ColiseuEstatisticas\services\Unit2.pas</Transaction>
+    <Transaction>2022/08/26 14:53:49.000.862,E:\Delphi_Projetos\ColiseuEstatisticas\services\Unit2.pas=E:\Delphi_Projetos\ColiseuEstatisticas\vcl\model\Model.LancaAtualizacao.pas</Transaction>
+  </Transactions>
+</BorlandProject>
